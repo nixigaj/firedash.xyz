@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://firedash.xyz/blog</id>
+    <title>Firedash Blog</title>
+    <updated>2023-07-19T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://firedash.xyz/blog"/>
+    <subtitle>Firedash Blog</subtitle>
+    <icon>https://firedash.xyz/img/brand/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Test Blog Post]]></title>
+        <id>https://firedash.xyz/blog/test</id>
+        <link href="https://firedash.xyz/blog/test"/>
+        <updated>2023-07-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[First test post.]]></summary>
+        <content type="html"><![CDATA[<p>First test post.</p>]]></content>
+        <author>
+            <name>Erik Junsved</name>
+            <uri>https://github.com/nixigaj</uri>
+        </author>
+        <category label="firedash" term="firedash"/>
+        <category label="website" term="website"/>
+    </entry>
+</feed>
