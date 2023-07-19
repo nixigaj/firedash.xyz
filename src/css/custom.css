@@ -148,12 +148,9 @@ code {
   border: 1px solid var(--code-border-color);
 }
 
-.codeBlockTitle_node_modules-\@docusaurus-theme-classic-lib-theme-CodeBlock-Content-styles-module {
-  font-family: Cascadia Code, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
-}
-
-.codeBlockContainer_node_modules-\@docusaurus-theme-classic-lib-theme-CodeBlock-Container-styles-module {
+.theme-code-block {
   border: var(--code-block-border);
+  font-family: Cascadia Code, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
 /*
 .img_node_modules-\@docusaurus-theme-classic-lib-theme-MDXComponents-Img-styles-module {

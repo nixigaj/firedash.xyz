@@ -35,7 +35,7 @@ The command also installs all necessary dependencies you need to run Docusaurus.
 
 Run the development server:
 
-```bash
+```bash title="/src/components/HelloCodeTitle.js"
 cd my-website
 npm run start
 ```
