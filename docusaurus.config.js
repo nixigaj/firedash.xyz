@@ -116,7 +116,7 @@ const config = {
               },
               {
                 label: 'Matrix',
-                to: '/community',
+                to: '/community#matrix',
               },
             ],
           },

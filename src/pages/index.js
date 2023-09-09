@@ -8,8 +8,8 @@ export default function Home() {
   return (
     <Layout
       title={`Taking intuitive networking to the next level`}
-      description="Description will go into a meta tag in <head />">
-        <Homepage></Homepage>
+      description="Taking intuitive networking to the next level">
+        <Homepage/>
     </Layout>
   );
 }
