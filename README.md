@@ -1,3 +1,5 @@
+### This repo is no longer used. The new location for the website code is [https://github.com/nixigaj/firedash/tree/prototype/website](https://github.com/nixigaj/firedash/tree/prototype/website).
+
 # firedash.xyz Website
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
